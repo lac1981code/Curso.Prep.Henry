@@ -1,0 +1,19 @@
+* Variables
+Una variable es un espacio donde se asigna o se guarda un valor 
+
+* Strings
+un string es una cadea de caracteres de letras "abcdef....etc"
+
+* Funciones (argumentos, `return`)
+Una funcion , son lineas  de codigo que hace una ejecucion de unas sentencias 
+ de acuerdo a los parametros que reciba y el cual devuelve un valor, las cuales
+ pueden ser llamadas o utilizadas en cualquier parte de nuestro programa.
+
+* Declaraciones `if`
+Las declaraciones son expresiones que evaluan  condiciones, por ejemplo
+1>2 , 2 == 2, y de acuerdo al resultado, puede o no  ejecutar lineas de codigo. 
+
+* Valores booleanos (`true`, `false`)
+Los valores booleanos son valores que toman un variable de acuerdo a unas sentencias
+o logicas dentro de la programacion, por ejemplo, 1 es mayor que dos, el resultado seria 
+´false´  o 2 es igual a 2  seria una sentencia verdadera ´ true ´
