@@ -1,0 +1,14 @@
+ * For
+ 
+ El for es una sentencia, es una estructura  que permite  hacer bucles ( repeticiones )  
+ de codigo, por medio de unas  variables  decladas el inicio de la sentencia.
+ la estructura For se divide em tres partes, la declaracion de una variable  i=0 , la condicion
+ de parada ( hasta que  i<100 ) y la condicion de incremento i++
+
+
+* Operadores logicos &&, ||, !
+
+Los Operadores logicos son como su nombre lo indica, operadores que permiten hacer evaluaciones
+de expresiones, las cuales estan representadas como "Y"  && , el "O"  || y el "No" !.
+El && es un operador donde las dos expresiones se deben de cumplir, en el || solo una expresiones
+se debe cumplir y en el ! es un operador booleano que devuelve lo opuesto a lo que pase. 
