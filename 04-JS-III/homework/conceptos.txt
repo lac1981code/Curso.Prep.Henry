@@ -1,0 +1,6 @@
+* Array
+
+Los arreglos es una estructura que permite almacenar un conjuto de datos, en unas 
+posiciones consecutivas.
+Los arreglos permiten guardar informacion que luego puede ser consultada o recorrida 
+de acuerdo a nuestas necesidades.
