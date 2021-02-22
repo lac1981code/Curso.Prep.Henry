@@ -1,0 +1,26 @@
+* objetos
+
+Los objetos son contenedores de   mucha informacion sobre una sola cosa, son colecciones
+de propiedades de un elemento.
+
+* propiedades
+
+las propiedades son los elementos que componen a un objeto.
+
+
+* metodos 
+Los metodos el es conjunto de una funcion, que realiza una operacion, los metodos se utilizan
+para hacer acciones como por ejemplo, añadir elementos, eliminarlos, transformacion de 
+variables, etc.
+
+
+* bucle for .. in
+
+Los bucles for in , son sentencias que sirven para recorrer o iterrar en nuestros objetos.
+
+
+
+* notacion puntos vs notacion de corchetes
+
+los puntos o corchetes se utilizan para referenciar o hacer el llamado a las propiedades 
+dentro de un metodo.
